@@ -112,10 +112,10 @@ function loadAudio(i) {
     document.getElementById("overlay").innerHTML =
         '<div class="text-loading">Please Wait...</div>';
     const files = [
-        "https://ls-sycdn.kuwo.cn/1c33cdfb1aa98715a119a1dfea9890b2/676ad901/resource/n1/51/25/978136919.mp3", // 替换为你喜欢的第二首歌的文件名
-        "https://ls-sycdn.kuwo.cn/1c33cdfb1aa98715a119a1dfea9890b2/676ad901/resource/n1/51/25/978136919.mp3", // 替换为你喜欢的第一首歌的文件名
-        "https://ls-sycdn.kuwo.cn/1c33cdfb1aa98715a119a1dfea9890b2/676ad901/resource/n1/51/25/978136919.mp3", // 替换为你喜欢的第三首歌的文件名
-        "https://music001.f14xuanlv.sbs/wsl-qing.flac", // 替换为你喜欢的第四首歌的文件名
+        "https://music001.f14xuanlv.sbs/zbh-gz.mp3", // 替换为你喜欢的第二首歌的文件名
+        "https://music001.f14xuanlv.sbs/ztf-sy.mp3", // 替换为你喜欢的第一首歌的文件名
+        "https://music001.f14xuanlv.sbs/zbh-wdxy.mp3", // 替换为你喜欢的第三首歌的文件名
+        "https://music001.f14xuanlv.sbs/wsl-q.mp3", // 替换为你喜欢的第四首歌的文件名
     ];
     const file = files[i];
 
