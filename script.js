@@ -112,10 +112,10 @@ function loadAudio(i) {
     document.getElementById("overlay").innerHTML =
         '<div class="text-loading">Please Wait...</div>';
     const files = [
-        "https://lw-sycdn.kuwo.cn/9085c9b7157d9219c1fbdb4cbfaf513e/676ae7b5/resource/30106/trackmedia/M500000v0cfZ3V8pWZ.mp3?bitrate$128&from=vip", // 替换为你喜欢的第二首歌的文件名
-        "https://ls-sycdn.kuwo.cn/1c33cdfb1aa98715a119a1dfea9890b2/676ad901/resource/n1/51/25/978136919.mp3?bitrate$128&from=vip", // 替换为你喜欢的第一首歌的文件名
-        "https://lv-sycdn.kuwo.cn/1cf9d820c34e94acd2a55dafcf707054/676ae899/resource/30106/trackmedia/M500000AjJxn2pIIQa.mp3?bitrate$128&from=vip", // 替换为你喜欢的第三首歌的文件名
-        "https://lw-sycdn.kuwo.cn/90dce67a2765665493d22372c4849c58/676ae897/resource/30106/trackmedia/M500000udQsg3lBDAo.mp3?bitrate$128&from=vip", // 替换为你喜欢的第四首歌的文件名
+        "https://ls-sycdn.kuwo.cn/1c33cdfb1aa98715a119a1dfea9890b2/676ad901/resource/n1/51/25/978136919.mp3", // 替换为你喜欢的第二首歌的文件名
+        "https://ls-sycdn.kuwo.cn/1c33cdfb1aa98715a119a1dfea9890b2/676ad901/resource/n1/51/25/978136919.mp3", // 替换为你喜欢的第一首歌的文件名
+        "https://ls-sycdn.kuwo.cn/1c33cdfb1aa98715a119a1dfea9890b2/676ad901/resource/n1/51/25/978136919.mp3", // 替换为你喜欢的第三首歌的文件名
+        "https://music001.f14xuanlv.sbs/wsl-qing.flac", // 替换为你喜欢的第四首歌的文件名
     ];
     const file = files[i];
 
