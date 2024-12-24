@@ -115,7 +115,7 @@ function loadAudio(i) {
         "Songs/MC 张天赋 - 世一.mp3", // 替换为你喜欢的第二首歌的文件名
         "Songs/周柏豪 - 够钟.mp3", // 替换为你喜欢的第一首歌的文件名
         "Songs/周柏豪 - 我的宣言.mp3", // 替换为你喜欢的第三首歌的文件名
-        "Songs/汪苏泷 - 晴.mp3", // 替换为你喜欢的第四首歌的文件名
+        "Songs/wsl-qing.mp3", // 替换为你喜欢的第四首歌的文件名
     ];
     const file = files[i];
 
