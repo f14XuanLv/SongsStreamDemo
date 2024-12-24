@@ -115,7 +115,7 @@ function loadAudio(i) {
         "Songs/MC 张天赋 - 世一.mp3", // 替换为你喜欢的第二首歌的文件名
         "Songs/周柏豪 - 够钟.mp3", // 替换为你喜欢的第一首歌的文件名
         "Songs/周柏豪 - 我的宣言.mp3", // 替换为你喜欢的第三首歌的文件名
-        "Songs/wsl-qing.mp3", // 替换为你喜欢的第四首歌的文件名
+        "https://webfs.kugou.com/202412250035/06642ec1231efc3ac14264547ce45ee0/v3/6d6bc2d6ae2b21943f810a2cd23e2260/yp/p_0_960115/ap1014_us0_mibe0687afb0fae1545e36f32e9055626d_pi406_mx32100650_s96258203.mp3", // 替换为你喜欢的第四首歌的文件名
     ];
     const file = files[i];
 
