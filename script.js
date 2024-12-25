@@ -112,8 +112,8 @@ function loadAudio(i) {
     document.getElementById("overlay").innerHTML =
         '<div class="text-loading">Please Wait...</div>';
     const files = [
-        "https://music001.f14xuanlv.sbs/MC 张天赋 - 小心碰头.mp3", // 替换为你喜欢的第二首歌的文件名
         "https://music001.f14xuanlv.sbs/MC 张天赋 - 世一.mp3", // 替换为你喜欢的第一首歌的文件名
+        "https://music001.f14xuanlv.sbs/MC 张天赋 - 小心碰头.mp3", // 替换为你喜欢的第二首歌的文件名
         "https://music001.f14xuanlv.sbs/洪嘉豪 - 掉进海的眼泪.mp3", // 替换为你喜欢的第三首歌的文件名
         "https://music001.f14xuanlv.sbs/洪嘉豪 - 黑玻璃.mp3", // 替换为你喜欢的第四首歌的文件名
     ];
